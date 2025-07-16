@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kyleepena
-- 👀 I’m interested in media metadata, social good, enabling communities with tech, and solving problems with creativity.
-- 🌱 I’m currently an entertainment industry professional and a USC grad student studying integrated design, business, and technology.
-- 📫 You can email me at kyleepena@gmail.com or find me on LinkedIn or Twitter (kyl33)
+- 👀 I’m interested in building connective tissue between creative technology, product strategy, and storytelling
+- 🌱 I’m currently Sr. PMM for Pro Video at Adobe and Purdue Doctor of Technology student investigating the intersection of narrative and AI.
+- 📫 You can email me at kyleepena@gmail.com or find me on LinkedIn or BlueSky (kyl33)
